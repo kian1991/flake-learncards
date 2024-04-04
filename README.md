@@ -12,6 +12,11 @@ Flake Academy is a flashcard learning system that allows users to create, edit, 
 - Dark Mode: Users can toggle between light and dark mode
 - Responsive Design: The app is optimized for mobile, tablet, and desktop
 
+<img src="docs/learn.png" width="1350">
+<img src="docs/home.png" width="350">
+<img src="docs/card.png" width="350">
+<img src="docs/card-2.png" width="350">
+
 ## Technologies Used
 
 - React
