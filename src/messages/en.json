@@ -1,0 +1,37 @@
+{
+	"Home": {
+		"title": "Hello world!"
+	},
+	"NavBar": {
+		"home": "Home",
+		"learn": "Learn",
+		"create": "Create",
+		"welcome": "Hi"
+	},
+	"Auth": {
+		"signout": "Sign out",
+		"welcome": "Hi {name}"
+	},
+	"Learn": {
+		"title": "Learn",
+		"selectStack": "Select a stack to start learning"
+	},
+	"CreateStack": {
+		"title": "Create a Stack",
+		"save": "Save"
+	},
+	"CreateCard": {
+		"title": "Create Cards",
+		"save": "Save"
+	},
+	"DoneCard": {
+		"yay": "Great job! You've completed this stack.",
+		"subtitle": "🎉 Stack completed",
+		"next": "What would you like to do next?"
+	},
+	"NoCards": {
+		"title": "Not much to see here..",
+		"subtitle": "Start by creating cards for this stack.",
+		"btn": "Create Cards"
+	}
+}

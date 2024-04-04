@@ -1,0 +1,15 @@
+{
+	"Home": {
+		"title": "Hallo Welt!"
+	},
+	"NavBar": {
+		"home": "Start",
+		"learn": "Lernen 🚀",
+		"create": "Erstellen",
+		"welcome": "Hi"
+	},
+	"Auth": {
+		"signout": "Abmelden",
+		"welcome": "Hi {name}"
+	}
+}
